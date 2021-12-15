@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="image">Image</string>
+    <string name="home">Home</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="search">Search</string>
+</resources>
